@@ -1,0 +1,19 @@
+{
+  "name": "npm-one-project",
+  "version": "0.0.1",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LLLove923Love/npm-one-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LLLove923Love/npm-one-project/issues"
+  },
+  "homepage": "https://github.com/LLLove923Love/npm-one-project#readme"
+}
